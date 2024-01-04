@@ -1,0 +1,141 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Facebook Junior Development Program",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+      "companyName": "Facebook",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Facebook. Join Facebook innovative team where creativity meets technology.",
+      "isFavourite": true
+    },
+    {
+      "id": 2,
+      "title": "Amazon Senior Development Program",
+      "logo": "https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Amazon-512.png",
+      "companyName": "Amazon",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from AMAZON. Join Amazon innovative team where creativity amazon technology.",
+      "isFavourite": true
+    },
+    {
+      "id": 3,
+      "title": "Twitter Junior Development Program",
+      "logo": " https://pngimg.com/uploads/twitter/twitter_PNG2.png",
+      "companyName": "Twitter",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Twitter. Join Twitter innovative team where creativity twitter technology.",
+      "isFavourite": false
+    },
+    {
+      "id": 4,
+      "title": "Meta Senior Development Program",
+      "logo": "https://pngimg.com/d/meta_PNG1.png",
+      "companyName": "Meta",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Meta. Join Meta innovative team where creativity meets technology.",
+      "isFavourite": false
+    },
+    {
+      "id": 5,
+      "title": "AliBaba Internship Program",
+      "logo": "https://img.freepik.com/free-vector/shopping-sale-concept_1284-13833.jpg",
+      "companyName": "AliBaba",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from AliBaba. Join AliBaba innovative team where creativity alibaba technology.",
+      "isFavourite": false
+    },
+    {
+      "id": 6,
+      "title": "Linkedin Junior Development Program",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png",
+      "companyName": "Linkedin",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Linkedin. Join Linkedin innovative team where creativity linkedin technology.",
+      "isFavourite": false
+    },
+    {
+      "id": 7,
+      "title": "Reddit Senior Development Program",
+      "logo": "https://freelogopng.com/images/all_img/1658834272reddit-logo-transparent.png",
+      "companyName": "Reddit",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Reddit. Join Reddite innovative team where creativity reddite technology.",
+      "isFavourite": false
+    },
+    {
+      "id": 8,
+      "title": "Google Internship Program",
+      "logo": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-icon-png-transparent-background-osteopathy-16.png",
+      "companyName": "Google",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from Google. Join Google innovative team where creativity Google technology.",
+      "isFavourite": false
+    },
+    {
+      "id": 9,
+      "title": "Google Internship Program",
+      "logo": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-icon-png-transparent-background-osteopathy-16.png",
+      "companyName": "Google",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from Google. Join Google innovative team where creativity Google technology."
+    },
+    {
+      "id": 10,
+      "title": "Facebook Junior Development Program",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+      "companyName": "Facebook",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Facebook. Join Facebook innovative team where creativity meets technology.",
+      "isFavourite": false
+    },
+    {
+      "id": 11,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://pngimg.com/d/microsoft_PNG13.png",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft. Join Microsoft innovative team where creativity amazon technology."
+    },
+    {
+      "id": 12,
+      "title": "Twitter Junior Development Program",
+      "logo": " https://pngimg.com/uploads/twitter/twitter_PNG2.png",
+      "companyName": "Twitter",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Twitter. Join Twitter innovative team where creativity twitter technology."
+    },
+    {
+      "id": 13,
+      "title": "Meta Senior Development Program",
+      "logo": "https://pngimg.com/d/meta_PNG1.png",
+      "companyName": "Meta",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Meta. Join Meta innovative team where creativity meets technology."
+    },
+    {
+      "id": 14,
+      "title": "AliBaba Internship Program",
+      "logo": "https://assets.stickpng.com/images/62a221df443b787d58371253.png",
+      "companyName": "AliBaba",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from AliBaba. Join AliBaba innovative team where creativity alibaba technology."
+    },
+    {
+      "id": 15,
+      "title": "Linkedin Junior Development Program",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png",
+      "companyName": "Linkedin",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Linkedin. Join Linkedin innovative team where creativity linkedin technology."
+    },
+    {
+      "id": 16,
+      "title": "Reddit Senior Development Program",
+      "logo": "https://freelogopng.com/images/all_img/1658834272reddit-logo-transparent.png",
+      "companyName": "Reddit",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Reddit. Join Reddite innovative team where creativity reddite technology."
+    }
+  ]
+}
